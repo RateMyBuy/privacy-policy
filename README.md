@@ -1,0 +1,2 @@
+# privacy-policy
+Datenschutzrichtlinie RateMyBuy
