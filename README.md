@@ -2,15 +2,15 @@
 Datenschutzrichtlinie für die App RateMyBuy
 
 1. Einleitung
-Wir freuen uns über dein Interesse an unserer App RateMyBuy. Der Schutz deiner personenbezogenen Daten ist uns sehr wichtig. In dieser Datenschutzerklärung informieren wir dich umfassend darüber, welche Daten wir erheben, wie wir diese verwenden, an wen wir sie ggf. weitergeben und welche Rechte du hast.
+Wir freuen uns über dein Interesse an unserer App RateMyBuy. Der Schutz deiner personenbezogenen Daten ist uns sehr wichtig. In dieser   Datenschutzerklärung informieren wir dich umfassend darüber, welche Daten wir erheben, wie wir diese verwenden, an wen wir sie ggf. weitergeben und welche Rechte du hast.
 
-Diese Datenschutzerklärung gilt ausschließlich für die Nutzung der App RateMyBuy.
+  Diese Datenschutzerklärung gilt ausschließlich für die Nutzung der App RateMyBuy.
 
 2. Verantwortlicher
-Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
+  Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
-Nils Klemp & Leon Röder
-ratemybuy1@gmail.com
+  Nils Klemp & Leon Röder
+  ratemybuy1@gmail.com
 
 3. Verarbeitete Daten
 3.1 Automatisch erhobene Daten
@@ -25,8 +25,8 @@ Wir nutzen Firebase Analytics, um das Verhalten der Nutzer in der App besser zu 
 - Interaktionen in der App (z. B. Klicks, Aufrufe von Funktionen)
 - demografische Informationen (sofern von Google bereitgestellt, z. B. Spracheinstellungen, Land)
 - Geräteinformationen
-- 
-Diese Daten werden pseudonymisiert gespeichert. Ein direkter Personenbezug ist für uns nicht möglich.
+  
+  Diese Daten werden pseudonymisiert gespeichert. Ein direkter Personenbezug ist für uns nicht möglich.
 
 3.3 Werbedaten
 Zur Finanzierung der App verwenden wir Google AdMob. Dabei können folgende Daten verarbeitet werden:
@@ -35,9 +35,9 @@ Zur Finanzierung der App verwenden wir Google AdMob. Dabei können folgende Date
 - Informationen über Interaktionen mit Werbeanzeigen
 - Standortinformationen (ungefähr, keine GPS-Ortung), sofern aktiviert
 - AdMob kann personenbezogene Daten auch für personalisierte Werbung verwenden, sofern du dem zugestimmt hast.
-- 
+  
 3.4 Crash- und Performance-Daten
-Über Firebase Crashlytics und Firebase Performance Monitoring erfassen wir technische Daten zu App-Abstürzen, Ladezeiten und Stabilität, um Fehler zu beheben und die App zu verbessern.
+  Über Firebase Crashlytics und Firebase Performance Monitoring erfassen wir technische Daten zu App-Abstürzen, Ladezeiten und Stabilität, um Fehler zu beheben und die App zu verbessern.
 
 4. Zwecke der Datenverarbeitung
 Wir verarbeiten die oben genannten Daten zu folgenden Zwecken:
