@@ -1,5 +1,5 @@
 # privacy-policy
-Datenschutzrichtlinie für die App RateMyBuy
+Datenschutzrichtlinie für die App RateMyBuy lel
 
 1. Einleitung
 Wir freuen uns über dein Interesse an unserer App RateMyBuy. Der Schutz deiner personenbezogenen Daten ist uns sehr wichtig. In dieser   Datenschutzerklärung informieren wir dich umfassend darüber, welche Daten wir erheben, wie wir diese verwenden, an wen wir sie ggf. weitergeben und welche Rechte du hast.
