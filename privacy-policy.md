@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
+permalink: /privacy-policy/
 ---
 
 # Datenschutzrichtlinie für die App RateMyBuy
