@@ -80,5 +80,21 @@ Du hast jederzeit das Recht auf:
 - Berichtigung unrichtiger Daten
 - Löschung deiner Daten ("Recht auf Vergessenwerden")
 - Einschränkung der Verarbeitung
-- Datenübertragbarkei
+- Datenübertragbarkeit
+- Widerruf einer Einwilligung für die Zukunft
+- Beschwerde bei einer Datenschutzbehörde (z. B. bei der zuständigen Aufsichtsbehörde deines Wohnsitzes)
 
+## 9. Einwilligungen und Opt-Out
+Für personalisierte Werbung kannst du in den Systemeinstellungen deines Geräts die Werbe-ID zurücksetzen oder die personalisierte Werbung deaktivieren.  
+Firebase Analytics bietet die Möglichkeit, das Tracking zu deaktivieren („opt-out of analytics“).
+
+## 10. Sicherheit
+Wir setzen technische und organisatorische Maßnahmen ein, um deine Daten gegen Verlust, Missbrauch und unbefugten Zugriff zu schützen. Eine 100%ige Sicherheit bei der Übertragung im Internet können wir jedoch nicht garantieren.
+
+## 11. Änderungen dieser Datenschutzerklärung
+Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf zu ändern. Die aktuelle Version ist jederzeit in der App abrufbar.
+
+## 12. Kontakt
+Bei Fragen zum Datenschutz kannst du uns jederzeit kontaktieren:  
+Klemp & Röder  
+[RateMyBuy1@gmail.com](mailto:RateMyBuy1@gmail.com)
