@@ -1,8 +1,3 @@
----
-layout: default
-title: Datenschutzrichtlinie - RateMyBuy
----
-
 # Datenschutzrichtlinie für die App RateMyBuy
 
 ## 1. Einleitung
